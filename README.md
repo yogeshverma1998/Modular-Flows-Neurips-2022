@@ -1,5 +1,5 @@
 # Modular Flows: Differential Molecular Generation
-This is the implementation of Modular Flows: Differential Molecular Generatin NeurIPS 2022 paper,
+This is the implementation of Modular Flows: Differential Molecular Generation NeurIPS 2022 paper,
 For more information visit the [website](https://yogeshverma1998.github.io/Modular-Flows-Differential-Molecular-Generation/)
 
 ## Prerequisites
